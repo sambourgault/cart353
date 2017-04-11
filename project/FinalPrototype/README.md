@@ -8,5 +8,8 @@ The computational aspect of this project appears in the evolutionary process as 
 
 The last experiment stages the ultimate behavior for the species to survive: reproduction. It happens through an asexual but multiple-partner process of transferring information from connected individuals. This transfer occurs with respect for encapsulation that protects the variables inside and contributes therefore to the biology of the digital species and leads to the second important aspect of this piece, the goal of the species. This goal is defined through the creation of connections between individuals. It is arranged that way in order to reflect the connectivity that characterized computational media, but also human societies, and explores how this sharing can influence the growth of a new organism but the abandonment of certain individuals.
 
-![alt tag](http://img0.png)
 ![Screenshot](img0.png)
+
+![Screenshot](img1.png)
+
+![Screenshot](img2.png)
