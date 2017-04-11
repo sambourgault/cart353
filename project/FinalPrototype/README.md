@@ -1,4 +1,4 @@
-Artist's Statement
+## Artist's Statement
 
 A lot of questions have been raised in the past decades about the similarities and distinctions between life forms and computational entities. New ClassOrganism explores this notion of life emerging within the boundaries of the screen and illustrates the different stages in the creation of one species purely based on computation. It strives then to identify what would make an organism be considered alive and how it would react to a programmed environment. But it also asks about our own societies, mainly our constant connectivity and its effect of the individual and the group. This project takes then the formal methodology of a scientific experiment and creates the impression for the observers that they are looking at different Petri dishes coming from a cybernetics laboratory.
 
